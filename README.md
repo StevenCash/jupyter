@@ -14,3 +14,8 @@ A simple script that randomly picks list elements, there are fancier ways of doi
 ## Butterworthhigh.ipynb
 
 High pass version of the low pass butterworth filter from Butterworth.ipynb
+
+
+## FIR_filter.ipynb
+
+FIR filter design.
