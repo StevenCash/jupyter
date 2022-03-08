@@ -19,3 +19,8 @@ High pass version of the low pass butterworth filter from Butterworth.ipynb
 ## FIR_filter.ipynb
 
 FIR filter design.
+
+
+## Interpolator.ipynb
+
+Some interpolation and filtering.
