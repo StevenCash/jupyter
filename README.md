@@ -28,4 +28,4 @@ Some interpolation and filtering.
 
 ## Fractals.ipynb
 
-An old notebook I made to plot images of fractals based on the Make Your Own Mandelbrot book by Rashid, which is an awesome book.  I was learning python and Jupyter at the time, so the code is pretty rough.
+An old notebook I made to plot images of fractals based on the Make Your Own Mandelbrot book by Rashid, which is an awesome book.  I was learning python and jupyter at the time, so the code is pretty rough.
