@@ -29,3 +29,8 @@ Some interpolation and filtering.
 ## Fractals.ipynb
 
 An old notebook I made to plot images of fractals based on the Make Your Own Mandelbrot book by Rashid, which is an awesome book.  I was learning python and jupyter at the time, so the code is pretty rough.
+
+
+## ConvexHull.ipynb
+
+Code to find the vertices of a convex hull of a set of points.  Based on an algorithm from Computational Geometry by de Berg et. al.
