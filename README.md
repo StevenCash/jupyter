@@ -34,3 +34,8 @@ An old notebook I made to plot images of fractals based on the Make Your Own Man
 ## ConvexHull.ipynb
 
 Code to find the vertices of a convex hull of a set of points.  Based on an algorithm from Computational Geometry by de Berg et. al.
+
+
+## KalmanExample8.ipynb
+
+This is a replication of example 8 from Kalmanfilter.net.
