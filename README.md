@@ -39,3 +39,8 @@ Code to find the vertices of a convex hull of a set of points.  Based on an algo
 ## KalmanExample8.ipynb
 
 This is a replication of example 8 from Kalmanfilter.net.
+
+
+## KalmanExample8-Experiment.ipynb
+
+Tried using a sine wave for the target motion, found that process noise must be adjusted considerably and the tracking still isn't great.
