@@ -48,4 +48,6 @@ Tried using a sine wave for the target motion, found that process noise must be 
 
 ## DelaunayVoronoi.ipynb
 
-Voronoi diagram generator from Dive Into Algorithms by Tuckfield.  Can also be used to create Delaunay triangle mesh.
+Voronoi diagram generator from Dive Into Algorithms by Tuckfield.  Can also be used to create Delaunay triangle mesh.  I modified things so that
+I could recreate the diagrams in GDscript, which at this point doesn't appear to support complex numbers and list comprehension that were used
+in the original algorithm.
