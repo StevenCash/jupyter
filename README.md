@@ -51,3 +51,9 @@ Tried using a sine wave for the target motion, found that process noise must be 
 Voronoi diagram generator from Dive Into Algorithms by Tuckfield.  Can also be used to create Delaunay triangle mesh.  I modified things so that
 I could recreate the diagrams in GDscript, which at this point doesn't appear to support complex numbers and list comprehension that were used
 in the original algorithm.
+
+
+## ValueNoise.ipynb
+
+This notebook generates 1D and 2D value noise.  If I ever use value noise in an application I will probably package it a little better, this
+was meant only to be an exercise in learning how to create it.
