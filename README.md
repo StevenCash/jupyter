@@ -57,3 +57,7 @@ in the original algorithm.
 
 This notebook generates 1D and 2D value noise.  If I ever use value noise in an application I will probably package it a little better, this
 was meant only to be an exercise in learning how to create it.
+
+## PerlinNoise.ipynb
+
+This code creates Perlin Noise and plots it.
